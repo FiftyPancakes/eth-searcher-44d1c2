@@ -1,0 +1,9 @@
+{
+  "chains": [
+    "ethereum",
+    "arbitrum"
+  ],
+  "min_profit_usd": 5,
+  "flashbots_enabled": true,
+  "searcher_key": ""
+}

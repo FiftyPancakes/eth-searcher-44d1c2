@@ -1,2 +1,9 @@
-# eth-searcher-44d1c2
-MEV extraction and arbitrage searcher
+# MEV Searcher
+
+Ethereum MEV extraction bot - arbitrage and liquidations.
+
+## Quick Start
+```
+npm install
+node searcher.js
+```
